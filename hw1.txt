@@ -1,0 +1,19 @@
+1) Reservered words in c are the following: 
+auto,       else,   long,       switch, 
+break,      enum,	register,   typedef,
+case,	    extern,	return,     union,
+char,	    float,	short,	    unsigned,
+const,	    for,    signed,	    void,
+continue,	goto,	sizeof,     volatile,
+default,	if,	    static,	    while,
+do,	int,	struct,_Packed,     double
+
+2) One method of finding the size of register r would be to see the biggest
+number you could store into it. Another method would be to shift the bits until 
+you found that there were no more bits to shift
+
+3) a=0 b=1 c=2
+d = a XOR a
+d = b >> b
+d = b * a
+d = a / c
