@@ -3,6 +3,7 @@
 
 void encodeFibOf(unsigned long n);
 unsigned long fib(unsigned long n);
+unsigned long fiboTail(unsigned long n, unsigned long a, unsigned long b);
 
 int main() {
   unsigned long number = 0;
@@ -24,7 +25,7 @@ void encodeFibOf(unsigned long n) {
     while ( tempFib <= n) {
       previous = tempFib;
       counter++;
-      tempFib = fib(counter);
+      tempFib = fiboTail(counter, 0, 1);
     }
     printf("Fib encoding of %lu is %lu (@ %lu) remainder is %lu\n", n, previous, counter - 1, n - previous);
     encodeFibOf(n-previous);
@@ -36,3 +37,10 @@ unsigned long fib(unsigned long n) {
   if (n <= 1) return n;
     return fib(n-1) + fib(n-2);
 }
+
+unsigned long fiboTail(unsigned long n, unsigned long a, unsigned long b){
+  if (n == 0) return a;
+  if (n == 1) return b;
+  return fiboTail(n - 1, b, a + b);
+}
+

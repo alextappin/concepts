@@ -1,0 +1,18 @@
+Enter the number you would like to encode
+: 918220361
+Fib encoding of 918220361 is 701408733 (@ 44) remainder is 216811628
+Fib encoding of 216811628 is 165580141 (@ 41) remainder is 51231487
+Fib encoding of 51231487 is 39088169 (@ 38) remainder is 12143318
+Fib encoding of 12143318 is 9227465 (@ 35) remainder is 2915853
+Fib encoding of 2915853 is 2178309 (@ 32) remainder is 737544
+Fib encoding of 737544 is 514229 (@ 29) remainder is 223315
+Fib encoding of 223315 is 196418 (@ 27) remainder is 26897
+Fib encoding of 26897 is 17711 (@ 22) remainder is 9186
+Fib encoding of 9186 is 6765 (@ 20) remainder is 2421
+Fib encoding of 2421 is 1597 (@ 17) remainder is 824
+Fib encoding of 824 is 610 (@ 15) remainder is 214
+Fib encoding of 214 is 144 (@ 12) remainder is 70
+Fib encoding of 70 is 55 (@ 10) remainder is 15
+Fib encoding of 15 is 13 (@ 7) remainder is 2
+Fib encoding of 2 is 2 (@ 3) remainder is 0
+
