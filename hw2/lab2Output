@@ -1,3 +1,5 @@
+STUDENT ID
+
 Enter the number you would like to encode
 : 918220361
 Fib encoding of 918220361 is 701408733 (@ 44) remainder is 216811628
@@ -16,3 +18,58 @@ Fib encoding of 70 is 55 (@ 10) remainder is 15
 Fib encoding of 15 is 13 (@ 7) remainder is 2
 Fib encoding of 2 is 2 (@ 3) remainder is 0
 
+SQUARED
+
+Enter the number you would like to encode
+: 843128631354970321
+Fib encoding of 843128631354970321 is 679891637638612258 (@ 87) remainder is 163236993716358063
+Fib encoding of 163236993716358063 is 160500643816367088 (@ 84) remainder is 2736349899990975
+Fib encoding of 2736349899990975 is 2111485077978050 (@ 75) remainder is 624864822012925
+Fib encoding of 624864822012925 is 498454011879264 (@ 72) remainder is 126410810133661
+Fib encoding of 126410810133661 is 117669030460994 (@ 69) remainder is 8741779672667
+Fib encoding of 8741779672667 is 6557470319842 (@ 63) remainder is 2184309352825
+Fib encoding of 2184309352825 is 1548008755920 (@ 60) remainder is 636300596905
+Fib encoding of 636300596905 is 591286729879 (@ 58) remainder is 45013867026
+Fib encoding of 45013867026 is 32951280099 (@ 52) remainder is 12062586927
+Fib encoding of 12062586927 is 7778742049 (@ 49) remainder is 4283844878
+Fib encoding of 4283844878 is 2971215073 (@ 47) remainder is 1312629805
+Fib encoding of 1312629805 is 1134903170 (@ 45) remainder is 177726635
+Fib encoding of 177726635 is 165580141 (@ 41) remainder is 12146494
+Fib encoding of 12146494 is 9227465 (@ 35) remainder is 2919029
+Fib encoding of 2919029 is 2178309 (@ 32) remainder is 740720
+Fib encoding of 740720 is 514229 (@ 29) remainder is 226491
+Fib encoding of 226491 is 196418 (@ 27) remainder is 30073
+Fib encoding of 30073 is 28657 (@ 23) remainder is 1416
+Fib encoding of 1416 is 987 (@ 16) remainder is 429
+Fib encoding of 429 is 377 (@ 14) remainder is 52
+Fib encoding of 52 is 34 (@ 9) remainder is 18
+Fib encoding of 18 is 13 (@ 7) remainder is 5
+Fib encoding of 5 is 5 (@ 5) remainder is 0
+
+CUBED
+
+Enter the number you would like to encode
+: 7741778762521967672
+Fib encoding of 7741778762521967672 is 7540113804746346429 (@ 92) remainder is 201664957775621243
+Fib encoding of 201664957775621243 is 160500643816367088 (@ 84) remainder is 41164313959254155
+Fib encoding of 41164313959254155 is 37889062373143906 (@ 81) remainder is 3275251586110249
+Fib encoding of 3275251586110249 is 2111485077978050 (@ 75) remainder is 1163766508132199
+Fib encoding of 1163766508132199 is 806515533049393 (@ 73) remainder is 357250975082806
+Fib encoding of 357250975082806 is 308061521170129 (@ 71) remainder is 49189453912677
+Fib encoding of 49189453912677 is 44945570212853 (@ 67) remainder is 4243883699824
+Fib encoding of 4243883699824 is 4052739537881 (@ 62) remainder is 191144161943
+Fib encoding of 191144161943 is 139583862445 (@ 55) remainder is 51560299498
+Fib encoding of 51560299498 is 32951280099 (@ 52) remainder is 18609019399
+Fib encoding of 18609019399 is 12586269025 (@ 50) remainder is 6022750374
+Fib encoding of 6022750374 is 4807526976 (@ 48) remainder is 1215223398
+Fib encoding of 1215223398 is 1134903170 (@ 45) remainder is 80320228
+Fib encoding of 80320228 is 63245986 (@ 39) remainder is 17074242
+Fib encoding of 17074242 is 14930352 (@ 36) remainder is 2143890
+Fib encoding of 2143890 is 1346269 (@ 31) remainder is 797621
+Fib encoding of 797621 is 514229 (@ 29) remainder is 283392
+Fib encoding of 283392 is 196418 (@ 27) remainder is 86974
+Fib encoding of 86974 is 75025 (@ 25) remainder is 11949
+Fib encoding of 11949 is 10946 (@ 21) remainder is 1003
+Fib encoding of 1003 is 987 (@ 16) remainder is 16
+Fib encoding of 16 is 13 (@ 7) remainder is 3
+Fib encoding of 3 is 3 (@ 4) remainder is 0
