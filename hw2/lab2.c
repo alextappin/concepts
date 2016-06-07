@@ -13,7 +13,9 @@ int main() {
     printf("\n0, bye");
     return 0;
   }
-  encodeFibOf(number);
+  //encodeFibOf(number);
+  number = fib(number);
+  printf("%llu", number);
   return 0;
 }
 
